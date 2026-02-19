@@ -4,6 +4,8 @@
 
 Montreal is an open source production-grade SaaS-ready boilerplate for modern Next.js apps. It's designed to have everything you need to build your SaaS app as quick as possible. Authentication, billing, analytics, SEO, CMS and more. Montreal has it all, from A to Z.
 
+![Alt](https://repobeats.axiom.co/api/embed/677183c4b6696b9c31f425525a6a9c336e1afa81.svg "Repobeats analytics image")
+
 ## What's inside?
 
 monorepo-starter includes the following packages/apps:
