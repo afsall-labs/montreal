@@ -7,13 +7,13 @@
     "@clerk/themes": "^2.1.43",
     "@repo/tailwind-config": "workspace:*",
     "next-themes": "^0.4.3",
-    "react": "^18.3.1"
+    "react": "^19.2.3"
   },
   "devDependencies": {
     "@clerk/types": "^4.32.0",
     "@repo/typescript-config": "workspace:*",
     "@types/node": "22.9.0",
-    "@types/react": "18.3.12",
+    "@types/react": "19.2.7",
     "@types/react-dom": "^18.3.1",
     "typescript": "^5.6.3"
   }

@@ -8,13 +8,13 @@
     "@vercel/analytics": "^1.4.0",
     "posthog-js": "^1.184.1",
     "posthog-node": "^4.2.1",
-    "react": "^18.3.1",
+    "react": "^19.2.3",
     "server-only": "^0.0.1"
   },
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
     "@types/node": "22.9.0",
-    "@types/react": "18.3.12",
+    "@types/react": "19.2.7",
     "@types/react-dom": "^18.3.1"
   }
 }
