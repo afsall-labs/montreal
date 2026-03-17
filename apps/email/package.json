@@ -11,7 +11,7 @@
     "@react-email/components": "0.0.28",
     "@repo/email": "workspace:*",
     "react": "18.3.1",
-    "react-email": "3.0.2"
+    "react-email": "5.1.0"
   },
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
